@@ -1,0 +1,9 @@
+- key: compellentbeat
+  title: compellentbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

@@ -1,0 +1,7 @@
+/.idea
+/build
+
+.DS_Store
+/compellentbeat
+/compellentbeat.test
+*.pyc
